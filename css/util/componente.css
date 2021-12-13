@@ -32,10 +32,20 @@
     text-transform: uppercase;
     color: #332200;
     font: 600 1.8rem/1.35 'Poppins', sans-serif;
+    max-width: max-content;
 }
 
 .button:hover {
     background: linear-gradient(#ffb60d, #e59117);
+}
+
+.button.secundario {
+    color: var(--cor-2);
+    background: var(--cor-10);
+}
+
+.button.secundario:hover {
+    background: var(--cor-9);
 }
 
 @media (max-width: 600px) {
