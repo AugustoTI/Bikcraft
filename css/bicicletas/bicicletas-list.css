@@ -1,5 +1,6 @@
 .bicicletas-list {
-    padding: 6rem 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 
 .bicicletas-list h2 {
@@ -13,6 +14,10 @@
     gap: 4rem;
     padding: 0 2rem 2rem 2rem;
     overflow-x: auto;
+}
+
+#bicicleta .bicicletas-list ul {
+    padding: 0 0 2rem 0;
 }
 
 .bicicletas-list li {
