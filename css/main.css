@@ -2,6 +2,7 @@
 @import url(./util/cores.css);
 @import url(./util/tipografia.css);
 @import url(./util/componente.css);
+@import url(./util/formulario.css);
 
 /* ESTILOS GLOBAIS */
 @import url(./global/global.css);
@@ -28,7 +29,8 @@
 @import url(./seguros/perguntas.css);
 
 /* CONTATOS */
-/* @import url(./contato/contato.css); */
+@import url(./contato/contato.css);
+@import url(./contato/formulario.css);
 
 /* TERMOS */
 @import url(./termos/termos.css);
