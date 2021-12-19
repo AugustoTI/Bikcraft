@@ -31,6 +31,7 @@
 /* CONTATOS */
 @import url(./contato/contato.css);
 @import url(./contato/formulario.css);
+@import url(./contato/loja.css);
 
 /* TERMOS */
 @import url(./termos/termos.css);
