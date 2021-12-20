@@ -21,6 +21,10 @@
     width: 100%;
 }
 
+.form textarea {
+    resize: none;
+}
+
 .form .col-2 {
     grid-column: span 2;
 }
